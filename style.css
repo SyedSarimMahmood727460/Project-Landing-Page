@@ -1,0 +1,12 @@
+.UP
+{
+    display: flex;
+    justify-content: space-between;
+}
+.down{
+    display: flex;
+    justify-content: space-evenly;
+}
+.left{
+    width: 300px;
+}
